@@ -95,10 +95,10 @@
 
 - **7.1 Future Improvements**: I envision incorporating a battery to eliminate the need for a USB-C cable, a feature already anticipated in the design. One of the sensors can detect motion, enabling user interaction even from across a window. A simple hand gesture (e.g., waving down) could trigger an instant data dispatch, while another gesture (e.g., waving up) might reset the entire system.
 ### 7.2 **Pictures**
-![](https://hackmd.io/_uploads/B1Y1xsLpn.jpg)
-![](https://hackmd.io/_uploads/H1Yklo862.jpg)
-![](https://hackmd.io/_uploads/H19ygsLph.jpg)
-![](https://hackmd.io/_uploads/SkqJgsIpn.jpg)
+![](https://github.com/Arturyux/NatureGlow/blob/main/images/upload_049c2a88481662881c720b4e61cabae6.jpeg?raw=true)
+![](https://github.com/Arturyux/NatureGlow/blob/main/images/upload_92d5e69cf9dfe319bf9c3836bff3f055.jpeg?raw=true)
+![](https://github.com/Arturyux/NatureGlow/blob/main/images/IMG_9720.jpg?raw=true)
+![](https://github.com/Arturyux/NatureGlow/blob/main/images/IMG_9722.jpg?raw=true)
 
 
 
