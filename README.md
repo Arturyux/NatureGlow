@@ -56,11 +56,12 @@ I used **Visual Studio Code (VSCode)**, a versatile editor that supports many pr
 1. Installed VSCode from its official website.  
 2. Installed **HomeBrew** package manager.  
 3. In terminal, ran:  
-   ```bash
+  ```bash
    brew install python3
-
+  ```
+  
    https://github.com/Arturyux/NatureGlow/blob/main/images/IMG_9720.jpg
 
    https://github.com/Arturyux/NatureGlow/blob/main/images/IMG_9721.jpg
-   
+
    https://github.com/Arturyux/NatureGlow/blob/main/images/IMG_9722.jpg
