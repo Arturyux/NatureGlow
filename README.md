@@ -60,8 +60,8 @@ I used **Visual Studio Code (VSCode)**, a versatile editor that supports many pr
    brew install python3
   ```
 
-   [img]https://github.com/Arturyux/NatureGlow/blob/main/images/IMG_9720.jpg[/img]
+   ![alt text](https://github.com/Arturyux/NatureGlow/blob/main/images/IMG_9720.jpg)
 
-   https://github.com/Arturyux/NatureGlow/blob/main/images/IMG_9721.jpg
+   ![alt text](ttps://github.com/Arturyux/NatureGlow/blob/main/images/IMG_9721.jpg)
 
-   https://github.com/Arturyux/NatureGlow/blob/main/images/IMG_9722.jpg
+   ![alt text](https://github.com/Arturyux/NatureGlow/blob/main/images/IMG_9722.jpg)
