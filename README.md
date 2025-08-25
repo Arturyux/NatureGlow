@@ -11,9 +11,6 @@ NatureGlow is a special sensor system that matches your indoor lights to the out
 But it does more than that: it also checks the outside light, warmth, and wetness to help guess the coming weather.  
 This helps us understand the weather better, all while making our indoor spaces feel more natural.  
 
-**Estimated Time for the Project:**  
-I accidentally left my materials at the university. This mistake cost me some time, but I managed to finish the project in 4 days.  
-
 ---
 
 ## 2. Objective
