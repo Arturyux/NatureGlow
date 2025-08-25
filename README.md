@@ -59,8 +59,8 @@ I used **Visual Studio Code (VSCode)**, a versatile editor that supports many pr
   ```bash
    brew install python3
   ```
-  
-   https://github.com/Arturyux/NatureGlow/blob/main/images/IMG_9720.jpg
+
+   [img]https://github.com/Arturyux/NatureGlow/blob/main/images/IMG_9720.jpg[/img]
 
    https://github.com/Arturyux/NatureGlow/blob/main/images/IMG_9721.jpg
 
